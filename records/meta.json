@@ -1,0 +1,8 @@
+{
+    "id": {
+        "owner": "TestBread",
+        "name": "meta"
+    },
+    "type": "datastore",
+    "status": "ongoing-support"
+}
